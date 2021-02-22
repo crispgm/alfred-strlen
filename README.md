@@ -8,7 +8,8 @@ Show string length with Alfred.
 
 ### Install via Packal
 
-<!-- [Alfred Markdown Table](http://www.packal.org/workflow/alfred-markdown-table) -->
+To be released.
+<!-- [Alfred Strlen](http://www.packal.org/workflow/alfred-strlen) -->
 
 ### Install manually
 
@@ -41,7 +42,7 @@ Output:
 hello, world
 12
 
-# UTF-8 charactersa
+# UTF-8 characters
 count 你好, 世界
 
 Output:
