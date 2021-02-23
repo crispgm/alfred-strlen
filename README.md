@@ -2,14 +2,13 @@
 
 Show string length with Alfred.
 
-<!-- ![screenshot](/screenshot.png) -->
+![screenshot](/screenshot.png)
 
 ## Installation
 
 ### Install via Packal
 
-To be released.
-<!-- [Alfred Strlen](http://www.packal.org/workflow/alfred-strlen) -->
+[Alfred Strlen](http://www.packal.org/workflow/alfred-strlen)
 
 ### Install manually
 
